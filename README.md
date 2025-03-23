@@ -7,7 +7,7 @@ Currently, WP Experience includes:
 - System-wide SegoeWP font
 - System UI Sounds
 - Ringtones & Notfication Sounds
-- Zero Corner Radius tweek
+- Zero Corner Radius tweak
 - Windows Phone Keyboard theme for Gboard
 
 
