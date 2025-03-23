@@ -1,4 +1,4 @@
-![WP Experience 1 2](https://github.com/user-attachments/assets/c7609dbd-8122-476f-a3d6-fd36db1b43e2)
+![WP Experience 1 3](https://github.com/user-attachments/assets/4e214ba8-4f55-4b74-a30d-465a3638bdff)
 
 ### **Features:**
 Currently, WP Experience includes:
@@ -7,6 +7,9 @@ Currently, WP Experience includes:
 - System-wide SegoeWP font
 - System UI Sounds
 - Ringtones & Notfication Sounds
+- Zero Corner Radius tweek
+- Windows Phone Keyboard theme for Gboard
+
 
 ### **Compatibility:**
 WP Experience supports A12 to A15 AOSP/Pixel based roms
